@@ -20,7 +20,7 @@ The analysis consists of:
 
 * Logistic Regression
 
-We ended up using the Random Forest Classification on our test data. 
+We ended up using the Random Forest Classification on our test data.
 
 # Running the Analysis
 
@@ -29,6 +29,14 @@ We ended up using the Random Forest Classification on our test data.
 * Follow along with `ipynb` file on Jupyter Notebook.
 
   * Feel free to edit and manipulate the models on your own!
+
+# Links to files
+
+[Notebook](https://github.com/Ivan-Despot/liver_ptn_classification/blob/master/src/ilpd.ipynb)
+
+[Report MD File](https://github.com/Ivan-Despot/liver_ptn_classification/blob/master/results/ilpd_results.md)
+
+[Report Rmd File](https://github.com/Ivan-Despot/liver_ptn_classification/blob/master/results/ilpd_results.Rmd)
 
 # Author
 
